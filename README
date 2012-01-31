@@ -2,7 +2,15 @@
 
 tleep it sleeps until the right moment to execute an action
 
-## Usage
+## Example
+
+in one hour (3600 seconds) play the file "test.mp3" relative to the home directory
+
+<pre><code>
+./tleep 3600 test.mp3
+</code></pre>
+
+## Use Cases
 
 Use Cases:
 
