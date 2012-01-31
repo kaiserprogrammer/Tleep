@@ -1,0 +1,26 @@
+# tleep
+
+tleep it sleeps until the right moment to execute an action
+
+## Usage
+
+Use Cases:
+
+Wait Then Execute:
+------------------
+data: action:function seconds:number
+1. it waits for seconds
+2. it executes given function
+
+
+Play until Stop:
+----------------
+data: filename:String
+1. plays filename endless
+
+
+## License
+
+Copyright (C) 2012
+
+Distributed under the Eclipse Public License, the same as Clojure.
